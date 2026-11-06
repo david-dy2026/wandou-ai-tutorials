@@ -12,7 +12,7 @@
 
 ## 相关 Skill
 
-- [豌豆内容对标助手](https://github.com/david-dy2026/wandou-content-benchmark)：包含把内容分析结果整理成飞书多维表格的流程，需要相应连接能力。
+- [豌豆内容对标](https://github.com/david-dy2026/wandou-duibiao)：包含把内容分析结果整理成飞书多维表格的流程，需要相应连接能力。
 
 ## 添加教程
 

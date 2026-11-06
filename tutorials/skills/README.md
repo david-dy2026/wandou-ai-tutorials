@@ -12,10 +12,10 @@
 
 | 中文名称 | 英文标识 | 中文说明 |
 | --- | --- | --- |
-| 豌豆图文教程助手 | `wandou-tutorial-maker` | [打开](https://github.com/david-dy2026/wandou-tutorial-maker#readme) |
-| 豌豆公众号改写助手 | `wandou-tutorial-to-wechat` | [打开](https://github.com/david-dy2026/wandou-tutorial-to-wechat#readme) |
-| 豌豆内容对标助手 | `wandou-content-benchmark` | [打开](https://github.com/david-dy2026/wandou-content-benchmark#readme) |
-| 豌豆短视频卖点助手 | `wandou-video-selling-points` | [打开](https://github.com/david-dy2026/wandou-video-selling-points#readme) |
+| 豌豆图文教程 | `wandou-jiaocheng` | [打开](https://github.com/david-dy2026/wandou-jiaocheng#readme) |
+| 豌豆公众号改写 | `wandou-gzh` | [打开](https://github.com/david-dy2026/wandou-gzh#readme) |
+| 豌豆内容对标 | `wandou-duibiao` | [打开](https://github.com/david-dy2026/wandou-duibiao#readme) |
+| 豌豆短视频卖点 | `wandou-maidian` | [打开](https://github.com/david-dy2026/wandou-maidian#readme) |
 
 平时可以用中文名称描述需求；安装目录和具体调用标识以对应仓库的说明为准。
 

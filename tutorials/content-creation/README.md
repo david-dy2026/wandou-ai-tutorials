@@ -14,10 +14,10 @@
 
 下面是已经公开的工具入口，可先查看各自的中文使用说明：
 
-- [豌豆图文教程助手](https://github.com/david-dy2026/wandou-tutorial-maker)
-- [豌豆公众号改写助手](https://github.com/david-dy2026/wandou-tutorial-to-wechat)
-- [豌豆内容对标助手](https://github.com/david-dy2026/wandou-content-benchmark)
-- [豌豆短视频卖点助手](https://github.com/david-dy2026/wandou-video-selling-points)
+- [豌豆图文教程](https://github.com/david-dy2026/wandou-jiaocheng)
+- [豌豆公众号改写](https://github.com/david-dy2026/wandou-gzh)
+- [豌豆内容对标](https://github.com/david-dy2026/wandou-duibiao)
+- [豌豆短视频卖点](https://github.com/david-dy2026/wandou-maidian)
 
 ## 添加教程
 
